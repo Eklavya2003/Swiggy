@@ -1,0 +1,8 @@
+
+
+{
+    "compilerOptions": {
+      "moduleResolution": "node"
+    },
+    "include": ["src", "src/data.js"]
+  }
